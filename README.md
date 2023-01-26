@@ -1,6 +1,9 @@
 # Calculator-using-8086-Assembly-Language-with-Report
 In this project we have computed the assembly language code (8086) to do the some basic arithmetic operations.
+<br>
 (Computer Organization And Architecture)
+<br>
+
 ---
 
 ### :woman_technologist: Introduction
@@ -53,7 +56,8 @@ Assembly language is not a day-to-day language but a computer
 engineering developer should know the assembly language so that by the
 piece of code one can understand what is going in the central processing
 unit and most important thing about assembly language is where a person
-wants to work at byte-bit level
+wants to work at byte-bit level.
+
 ---
 
 <div id="header" align="center">
